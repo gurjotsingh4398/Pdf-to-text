@@ -1,5 +1,5 @@
 # Pdf-to-text
-*By Gurjot Singh
+*By Gurjot Singh*
 
 The aim of this application is to extract text from a pdf file. This application is implemented using React on FrontEnd and NodeJS on BackEnd with the help of express-fileupload npm package.
 
